@@ -16,7 +16,7 @@ The project is built using C langage and its built-ins libraries. The architectu
 To use this project, start by cloning it in your computer.
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/iamlouislab/minishell
 ```
 
 Then you can use the provided Makefile to build the project.
